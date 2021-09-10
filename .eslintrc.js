@@ -18,6 +18,5 @@ module.exports = {
     'jsx-a11y/label-has-associated-control': [2, {
       assert: 'either',
     }],
-    '@typescript-eslint/semi': 'off',
   },
 };

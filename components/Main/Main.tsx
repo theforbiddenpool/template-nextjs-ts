@@ -1,3 +1,5 @@
-const Main = () => (<main>Hello World</main>);
+function Main() {
+  return <main>Hello World</main>;
+}
 
 export default Main;

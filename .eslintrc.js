@@ -19,5 +19,5 @@ module.exports = {
       assert: 'either',
     }],
   },
-  ignorePatterns: [".eslintrc.js"],
+  ignorePatterns: ['.eslintrc.js'],
 };
